@@ -24,4 +24,4 @@ Incluye:
 
 ✔ Predicción y clasificación
 
-Este README resume el entorno, funcionamiento, arquitectura, sintaxis y pruebas oficiales del lenguaje.
+
