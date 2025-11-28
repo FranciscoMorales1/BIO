@@ -26,17 +26,32 @@ Incluye:
 
 🏃‍♂️ Cómo ejecutarlo
 
+Perfecto, aquí tienes una versión **simple, directa y sin redundancias** para el README:
+
+---
+
+## 🏃‍♂️ Cómo ejecutarlo
+
 Para usar el lenguaje:
 
-Ubícate en la carpeta bio
+1. Ubícate en la carpeta **bio**
 
-Allí está el archivo principal bio.py.
+   * Allí está el archivo principal `bio.py`.
 
-Ejecuta el intérprete:
+2. Ejecuta el intérprete:
 
-python bio.py
+   ```
+   python bio.py
+   ```
 
-🧪 Pruebas
+---
 
-Las pruebas de todas las operaciones están en la carpeta pruebas del proyecto.
+## 🧪 Pruebas
+
+Las pruebas de **todas las operaciones** están en la carpeta **pruebas** del proyecto.
 Desde allí puedes abrir cada archivo y copiar las instrucciones directamente en el intérprete.
+
+---
+
+Si quieres, te genero el README completo con esta sección ya incluida.
+
