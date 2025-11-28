@@ -24,4 +24,19 @@ Incluye:
 
 ✔ Predicción y clasificación
 
+🏃‍♂️ Cómo ejecutarlo
 
+Para usar el lenguaje:
+
+Ubícate en la carpeta bio
+
+Allí está el archivo principal bio.py.
+
+Ejecuta el intérprete:
+
+python bio.py
+
+🧪 Pruebas
+
+Las pruebas de todas las operaciones están en la carpeta pruebas del proyecto.
+Desde allí puedes abrir cada archivo y copiar las instrucciones directamente en el intérprete.
