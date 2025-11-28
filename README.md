@@ -53,5 +53,31 @@ Desde allí puedes abrir cada archivo y copiar las instrucciones directamente en
 
 ---
 
-Si quieres, te genero el README completo con esta sección ya incluida.
+Aquí tienes la sección lista para pegar en tu **README.md**, con espacios pensados para dos imágenes:
+
+---
+
+## 📈 Regresión Lineal Ampliada
+
+### *(Requerido para la sustentación)*
+
+Esta versión incluye el cálculo detallado de todos los componentes fundamentales de la regresión lineal simple:
+
+* Pendiente ( m )
+* Intercepto ( b )
+* R2
+* Ecuación final del modelo
+* Resultado en formato estructurado para impresión
+
+Debajo se incluyen dos espacios destinados a mostrar ejemplos gráficos o capturas de salida:
+
+**Imagen 1 — codigo y salida por terminal**
+![1](https://github.com/user-attachments/assets/bb6cb486-b883-4765-9192-51e6f301f8b2)
+
+
+**Imagen 2 — Grafica del modelo**
+![2](https://github.com/user-attachments/assets/ad77e326-0c59-419e-aac0-397e53a78a39)
+
+---
+
 
