@@ -1,8 +1,10 @@
+**Autores: Francisco Morales, Juan Caro.**
+
 📘 BIO v1.0 – Lenguaje de Programación para Aprendizaje Profundo
 
 BIO es un lenguaje creado desde cero con ANTLR4 y Python, diseñado para realizar operaciones matemáticas, manipulación de matrices, aprendizaje automático y visualización, manteniendo una sintaxis simple en español.
 
-Autores: Francisco Morales, Juan Caro
+
 Incluye:
 
 ✔ Aritmética avanzada
