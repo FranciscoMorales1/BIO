@@ -29,7 +29,6 @@ Incluye:
 
 🏃‍♂️ Cómo ejecutarlo
 
-Perfecto, aquí tienes una versión **simple, directa y sin redundancias** para el README:
 
 ---
 
