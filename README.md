@@ -55,7 +55,7 @@ Desde allí puedes abrir cada archivo y copiar las instrucciones directamente en
 
 ---
 
-Aquí tienes la sección lista para pegar en tu **README.md**, con espacios pensados para dos imágenes:
+
 
 ---
 
